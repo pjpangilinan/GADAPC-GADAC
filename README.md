@@ -1,5 +1,7 @@
 # GADAPC-GADAC: Predicting Employee Turnover with Logistic Regression and KNN Models in Salifort Motors
 
+see [Jupyter Notebook](https://github.com/pjpangilinan/GADAPC-GADAC/blob/main/GADAC-C7.ipynb)
+
 ## Plan Phase
 
 ### Who are your stakeholders for this project?
