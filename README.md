@@ -3,6 +3,7 @@
 ## Plan Phase
 
 * Who are your stakeholders for this project?
+  Salifort Motors’ HR department, Senior leadership and management teams, Current employees
 * What are you trying to solve or accomplish?
 * What are your initial observations when you explore the data?
 * What resources do you find yourself using as you complete this stage? (Make sure to include the links.)
