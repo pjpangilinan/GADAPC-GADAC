@@ -2,12 +2,20 @@
 
 ## Plan Phase
 
-* Who are your stakeholders for this project? <br><br>
-  Salifort Motors’ HR department, Senior leadership and management teams, Current employees <br>
+* Who are your stakeholders for this project? <br>
+  Salifort Motors’ HR department, Senior leadership and management teams, Current employees 
 * What are you trying to solve or accomplish? <br>
-* What are your initial observations when you explore the data? <br> 
+  Predict which employees are likely to leave <br>
+  Identify key factors influencing employee turnover <br>
+  Provide actionable insights to improve employee retention and satisfaction
+* What are your initial observations when you explore the data? <br>
+  There are numerical variables (e.g., satisfaction_level, average_monthly_hours) and categorical variables (e.g., Department, salary) <br>
+  Variables like promotion, work accident, and department might have significant influence on turnover
 * What resources do you find yourself using as you complete this stage? (Make sure to include the links.) <br>
+
 * Do you have any ethical considerations in this stage? <br>
+  Handle private employee data with care <br>
+  Avoid biased modeling that could unfairly target certain groups or departments
 
 ## Analyze Phase
 
